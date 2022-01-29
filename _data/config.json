@@ -1,9 +1,9 @@
 {
-  "title": "Once",
+  "title": "CityGuideTips",
   "url": "/",
-  "domain": "https://once-eleventy.netlify.app",
+  "domain": "https://cityguide.tips",
   "language": "es",
-  "logoUrl": "/_images/once.png",
+  "logoUrl": "",
   "search": true,
   "showCookiesAdvice": false,
   "cookiesAdviceText": "Cookies advice text",
