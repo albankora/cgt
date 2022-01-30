@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Hong Kong
-permalink: /hong-kong/index.html
+title: Vaduz
+permalink: /liechtenstein/vaduz.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 

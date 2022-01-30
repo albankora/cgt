@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Hong Kong
-permalink: /hong-kong/index.html
+title: Valletta
+permalink: /malta/valletta.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 

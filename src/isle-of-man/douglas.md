@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Hong Kong
-permalink: /hong-kong/index.html
+title: Douglas
+permalink: /isle-of-man/douglas.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 
