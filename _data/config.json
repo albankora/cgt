@@ -24,17 +24,6 @@
     {
       "anchor": "About",
       "url": "/about/"
-    },
-    {
-      "anchor": "Contact",
-      "url": "#"
-    }
-  ],
-  "navbarButtons": [
-    {
-      "anchor": "Suscribe",
-      "class": "is-small is-danger",
-      "url": "about"
     }
   ],
   "social": {
