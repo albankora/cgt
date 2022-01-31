@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Rome
-permalink: /italy/rome.html
+title: Saint Helier
+permalink: /jersey/saint-helier.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 
