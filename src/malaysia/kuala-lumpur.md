@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Buenos Aires
-permalink: /argentina/buenos-aires.html
+title: 	Kuala Lumpur
+permalink: /malaysia/kuala-lumpur.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 

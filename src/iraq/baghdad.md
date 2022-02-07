@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Buenos Aires
-permalink: /argentina/buenos-aires.html
+title: 	Baghdad
+permalink: /iraq/baghdad.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 

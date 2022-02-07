@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Buenos Aires
-permalink: /argentina/buenos-aires.html
+title: 	Dili
+permalink: /east-timor/dili.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 

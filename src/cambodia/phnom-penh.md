@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Buenos Aires
-permalink: /argentina/buenos-aires.html
+title: 	Phnom Penh
+permalink: /cambodia/phnom-penh.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Buenos Aires
-permalink: /argentina/buenos-aires.html
+title:  Abu Dhabi
+permalink: /united-arab-emirates/abu-dhabi.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 

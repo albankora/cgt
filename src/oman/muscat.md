@@ -1,7 +1,7 @@
 ---
 layout: post-minimal.njk
-title: Buenos Aires
-permalink: /argentina/buenos-aires.html
+title:  Muscat
+permalink: /oman/muscat.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 
