@@ -3,6 +3,7 @@ layout: post-minimal.njk
 title: Tirana
 permalink: /albania/tirana.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
+changeFreq: monthly
 ---
 
 # {{ title }}

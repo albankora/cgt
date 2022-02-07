@@ -3,6 +3,7 @@ layout: post-minimal.njk
 title: Kabul
 permalink: /afghanistan/kabul.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
+changeFreq: weekly
 ---
 
 # {{ title }}
