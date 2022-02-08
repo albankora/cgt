@@ -2,56 +2,19 @@
 layout: post-minimal.njk
 title: Kabul
 permalink: /afghanistan/kabul.html
-featuredImage: /_images/hong-kong/hong-kong.jpg
+featuredImage: /_images/afghanistan/hong-kong.jpg
 changeFreq: weekly
 ---
 
 # {{ title }}
 
-## Places to visit
+## Must see attractions in Kabul
 
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
+### Kabul Museum
+The Kabul Museum was once one of the greatest museums in the world. Its exhibits, ranging from Hellenistic gold coins to Buddhist statuary and Islamic bronzes, testified to Afghanistan’s location at the crossroads of Asia.  The museum opened in 1919, and was almost entirely stocked with items excavated in Afghanistan.
 
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
+### Babur's Gardens
+Laid out by the Mughal ruler Babur in the early 16th century, and the site of his tomb, these gardens are the loveliest spot in Kabul. At 11 hectares, they are also the largest public green space in the city. Left to ruins during the war, they have been spectacularly restored by the Aga Khan Trust for Culture (AKTC).
 
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-## Things to do
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-## Foods to eat
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-## Places to party
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
+### Bala Hissar & City Walls
+The old seat of royal power, a fortress has stood on the site of the Bala Hissar since the 5th century AD, and quite possibly before. It sits at the foot of the Koh-e Shir Darwaza mountains, guarding the southwestern approaches to Kabul. The citadel as it stands today was built at the end of the 19th century. The previous fortress was destroyed by the vengeful British army at the end of the Second Anglo-Afghan War.
