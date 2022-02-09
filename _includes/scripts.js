@@ -129,3 +129,14 @@ function search() {
 for (icon of searchIcons) {
   icon.addEventListener("click", launchSearchBox);
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+// add contat info
+const addContact = document.getElementById("my-contact");
+console.log("is  me")
+if (addContact) {
+  const user = 'hello';
+  const site = 'cityguide.tips'
+  addContact.innerHTML = '<a href="mailto:' + user + '@' + site+ '">' + user + '@' + site + '</a>';
+}
+})

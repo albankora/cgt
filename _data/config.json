@@ -23,7 +23,7 @@
   "navbarMenu": [
     {
       "anchor": "About",
-      "url": "/about/"
+      "url": "/about.html"
     }
   ],
   "social": {
