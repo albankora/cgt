@@ -1,11 +1,11 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title:  Port Moresby
 permalink: /papua-new-guinea/port-moresby.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 
-# {{ title }}
+
 
 ## Places to visit
 

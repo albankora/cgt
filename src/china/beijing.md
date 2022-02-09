@@ -1,11 +1,11 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: 	Beijing
 permalink: /china/beijing.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 
-# {{ title }}
+
 
 ## Places to visit
 

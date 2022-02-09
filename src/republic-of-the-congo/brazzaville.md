@@ -1,12 +1,12 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: Brazzaville
 permalink: /republic-of-the-congo/brazzaville.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 changeFreq: weekly
 ---
 
-# {{ title }}
+
 
 ## Places to visit
 

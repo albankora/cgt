@@ -1,11 +1,11 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: Luxembourg
 permalink: /luxembourg/index.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 
-# {{ title }}
+
 
 ## Section Title H2
 

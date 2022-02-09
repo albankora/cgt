@@ -1,11 +1,11 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: 	Nuku'alofa
 permalink: /tonga/nukualofa.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 
-# {{ title }}
+
 
 ## Places to visit
 

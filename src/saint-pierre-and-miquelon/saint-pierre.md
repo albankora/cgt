@@ -1,11 +1,11 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: 	Saint-Pierre
 permalink: /saint-pierre-and-miquelon/saint-pierre.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 
-# {{ title }}
+
 
 ## Places to visit
 

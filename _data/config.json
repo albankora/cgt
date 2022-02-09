@@ -34,7 +34,7 @@
     "github": "https://github.com"
   },
   "showShareButtons": true,
-  "showDate": true,
-  "showRelatedPosts": true,
+  "showDate": false,
+  "showRelatedPosts": false,
   "relatedPostsTitle": "Related Posts"
 }

@@ -1,12 +1,10 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: Mariehamn
 permalink: /aland-islands/mariehamn.html
 featuredImage: /_images/aland-islands/mariahamn.jpg
+changeFreq: weekly
 ---
-
-# {{ title }}
-
 ## Must see attractions in Mariehamn
 
 ### Paragraph Title H3

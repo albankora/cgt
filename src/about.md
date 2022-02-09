@@ -4,7 +4,7 @@ title: About
 eleventyExcludeFromCollections: true
 ---
 
-# {{ title }}
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ullamcorper massa cursus, auctor quam ac, vestibulum ipsum. Integer tempor dolor at erat ultricies sollicitudin. Etiam auctor, orci at scelerisque condimentum, massa lacus vehicula enim, eu semper eros velit quis neque. In sit amet accumsan tellus. Mauris eu est turpis. Nam eu elementum quam. Nulla accumsan tellus mi, sit amet porta nulla pharetra quis. Cras a lorem quis risus elementum malesuada. Vivamus eu nisl vel quam commodo euismod vel at tellus. Donec non lobortis lacus. Proin imperdiet, tellus vel ullamcorper cursus, nulla tellus sollicitudin velit, eu ornare urna eros non sapien.
 

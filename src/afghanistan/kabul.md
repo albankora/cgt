@@ -1,13 +1,10 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: Kabul
 permalink: /afghanistan/kabul.html
 featuredImage: /_images/afghanistan/hong-kong.jpg
 changeFreq: weekly
 ---
-
-# {{ title }}
-
 ## Must see attractions in Kabul
 
 ### Kabul Museum

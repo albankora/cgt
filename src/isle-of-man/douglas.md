@@ -1,5 +1,5 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: Douglas
 permalink: /isle-of-man/douglas.html
 featuredImage: /_images/hong-kong/hong-kong.jpg

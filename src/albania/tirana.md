@@ -1,57 +1,19 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: Tirana
 permalink: /albania/tirana.html
-featuredImage: /_images/hong-kong/hong-kong.jpg
-changeFreq: monthly
+featuredImage: /_images/albania/tirana.jpg
+changeFreq: weekly
 ---
+## Must see attractions in Tirana
 
-# {{ title }}
+### Bunk'Art
+This fantastic conversion – from a massive Cold War bunker on the outskirts of Tirana into a history and contemporary art museum – is Albania's most exciting new sight and easily a Tirana highlight. 
 
-## Places to visit
+With almost 3000 sq metres of space underground spread over several floors, the bunker was built for Albania's political elite in the 1970s and remained a secret for much of its existence.
 
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
+### National History Museum
+The largest museum in Albania holds many of the country's archaeological treasures and a replica of Skanderbeg's massive sword (how he held it, rode his horse and fought at the same time is a mystery). The collection of statues, mosaics and columns from ancient Greek and Roman times is breathtaking.
 
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-## Things to do
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-## Foods to eat
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-## Places to party
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
-
-### Paragraph Title H3
-Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.
-
-Donec quis turpis eu justo suscipit eleifend in at mi. Nulla at lectus molestie, blandit elit eu, eleifend sem. Nunc suscipit tincidunt consectetur.
+### National Gallery of Arts
+Tracing the relatively brief history of Albanian painting from the early 19th century to the present day, this beautiful space also holds temporary exhibitions. The interesting collection includes 19th-century paintings depicting scenes from daily Albanian life and others with a far more political dimension, including some truly fabulous examples of Albanian socialist realism.

@@ -101,3 +101,8 @@ body {
 .social-flotante li a {
   margin: 5px 0;
 }
+
+.content h3 {
+  font-size: 1.2em;
+  margin-bottom: 0.6666em;
+}

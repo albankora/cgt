@@ -1,12 +1,12 @@
 ---
-layout: post-minimal.njk
+layout: post.njk
 title: N'Djamena
 permalink: /chad/ndjamena.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 changeFreq: weekly
 ---
 
-# {{ title }}
+
 
 ## Places to visit
 
