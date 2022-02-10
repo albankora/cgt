@@ -1,7 +1,7 @@
 ---
 layout: post.njk
-title: Paris
-permalink: /france/paris.html
+title: Rio de Janeiro
+permalink: /brazil/rio-de-janeiro.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 ## Must see attractions in {{title}}

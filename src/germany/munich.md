@@ -1,7 +1,7 @@
 ---
 layout: post.njk
-title: Paris
-permalink: /france/paris.html
+title: Munich
+permalink: /germany/munich.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 ## Must see attractions in {{title}}

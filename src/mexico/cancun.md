@@ -1,7 +1,7 @@
 ---
 layout: post.njk
-title: Paris
-permalink: /france/paris.html
+title: 	Cancun
+permalink: /mexico/cancun.html
 featuredImage: /_images/hong-kong/hong-kong.jpg
 ---
 ## Must see attractions in {{title}}
