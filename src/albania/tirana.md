@@ -3,9 +3,8 @@ layout: post.njk
 title: Tirana
 permalink: /albania/tirana.html
 featuredImage: /_images/albania/tirana.jpg
-changeFreq: weekly
 ---
-## Must see attractions in Tirana
+## Must see attractions in {{title}}
 
 ### Bunk'Art
 This fantastic conversion – from a massive Cold War bunker on the outskirts of Tirana into a history and contemporary art museum – is Albania's most exciting new sight and easily a Tirana highlight. 

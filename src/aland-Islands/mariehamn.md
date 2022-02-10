@@ -3,9 +3,8 @@ layout: post.njk
 title: Mariehamn
 permalink: /aland-islands/mariehamn.html
 featuredImage: /_images/aland-islands/mariahamn.jpg
-changeFreq: weekly
 ---
-## Must see attractions in Mariehamn
+## Must see attractions in {{title}}
 
 ### Paragraph Title H3
 Etiam ut risus sagittis, posuere mi at, congue dui. Sed in turpis ut felis bibendum blandit non sit amet ipsum. Etiam mattis metus sed felis cursus ultricies. Donec varius lectus maximus orci mattis sagittis.

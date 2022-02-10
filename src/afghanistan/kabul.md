@@ -3,9 +3,8 @@ layout: post.njk
 title: Kabul
 permalink: /afghanistan/kabul.html
 featuredImage: /_images/afghanistan/hong-kong.jpg
-changeFreq: weekly
 ---
-## Must see attractions in Kabul
+## Must see attractions in {{title}}
 
 ### Kabul Museum
 The Kabul Museum was once one of the greatest museums in the world. Its exhibits, ranging from Hellenistic gold coins to Buddhist statuary and Islamic bronzes, testified to Afghanistan’s location at the crossroads of Asia.  The museum opened in 1919, and was almost entirely stocked with items excavated in Afghanistan.
